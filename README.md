@@ -1,43 +1,43 @@
-# JavaScript Calculator
+# JavaScript Калькулятор
 
-A modern, responsive calculator built with vanilla JavaScript. Features live calculation, keyboard support, and a sleek dark UI.
+Современный адаптивный калькулятор на чистом JavaScript. Live-вычисления, поддержка клавиатуры и стильный тёмный дизайн.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-Grid-blue?logo=css3)
 
-## Features
+## Возможности
 
-- Basic arithmetic operations (+, −, ×, ÷)
-- Live calculation as you type
-- Full keyboard support
-- Percentage calculation
-- Backspace / clear functionality
-- Responsive dark theme design
-- Number formatting with locale support
-- Error handling for invalid expressions
+- Базовые арифметические операции (+, −, ×, ÷)
+- Вычисления в реальном времени по мере ввода
+- Полная поддержка клавиатуры
+- Вычисление процентов
+- Удаление последнего символа / очистка
+- Адаптивный тёмный дизайн
+- Форматирование чисел
+- Обработка ошибок
 
-## Demo
+## Запуск
 
-Open `index.html` in your browser — no build tools or dependencies required.
+Откройте `index.html` в браузере — никаких сборщиков и зависимостей.
 
-## Keyboard Shortcuts
+## Горячие клавиши
 
-| Key | Action |
-|-----|--------|
-| `0-9` | Input numbers |
-| `+ - * /` | Operations |
-| `.` | Decimal point |
-| `Enter` or `=` | Calculate |
-| `Backspace` | Delete last character |
-| `Escape` | Clear all |
-| `%` | Percentage |
+| Клавиша | Действие |
+|---------|----------|
+| `0-9` | Ввод цифр |
+| `+ - * /` | Операции |
+| `.` | Десятичная точка |
+| `Enter` или `=` | Вычислить |
+| `Backspace` | Удалить последний символ |
+| `Escape` | Очистить всё |
+| `%` | Процент |
 
-## Tech Stack
+## Технологии
 
 - HTML5
 - CSS3 (Grid Layout)
-- JavaScript (ES6 Classes)
+- JavaScript (ES6 Классы)
 
-## License
+## Лицензия
 
 MIT
